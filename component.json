@@ -5,11 +5,6 @@
     "main": "lib/index.js",
     "tag": "master",
     "reposType": "npm",
-    "dependencies": {
-        "classnames": "^2.2.1",
-        "fit-input": "^1.1.11",
-        "jquery": "^2.1.4",
-        "lodash": "^3.10.1"
-    },
-    "version": "1.0.9"
+    "dependencies": {},
+    "version": "1.0.8"
 }
