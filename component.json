@@ -1,15 +1,15 @@
 {
     "name": "fit-number",
     "description": "数字选择器",
-    "repos": "https://github.com/2betop/placeholder.git",
+    "repos": "https://github.com/tb-component/pc-number.git",
     "main": "lib/index.js",
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
         "classnames": "^2.2.1",
-        "fit-input": "^1.1.14",
+        "fit-input": "^1.1.15",
         "jquery": "^2.1.4",
         "lodash": "^3.10.1"
     },
-    "version": "1.0.13"
+    "version": "1.0.14"
 }
