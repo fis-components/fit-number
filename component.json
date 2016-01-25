@@ -7,9 +7,9 @@
     "reposType": "npm",
     "dependencies": {
         "classnames": "^2.2.1",
-        "fit-input": "^1.1.15",
+        "fit-input": "^1.1.17",
         "jquery": "^2.1.4",
         "lodash": "^3.10.1"
     },
-    "version": "1.0.14"
+    "version": "1.0.15"
 }
